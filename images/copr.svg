@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="187.67265mm"
-   height="69.282036mm"
-   viewBox="0 0 187.67265 69.282036"
+   width="60mm"
+   height="69.282028mm"
+   viewBox="0 0 59.999999 69.282028"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="stickers_final.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="copr.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="260.995"
-     inkscape:cy="113.59961"
+     inkscape:cx="-270.07377"
+     inkscape:cy="113.5996"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,10 +41,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="2160"
-     inkscape:window-height="3791"
-     inkscape:window-x="1920"
-     inkscape:window-y="60"
+     inkscape:window-width="1920"
+     inkscape:window-height="983"
+     inkscape:window-x="0"
+     inkscape:window-y="666"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
   <metadata
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +63,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-41.577086,-73.222556)">
+     transform="translate(-169.24975,-73.222557)">
     <g
        id="g926"
        transform="matrix(1.0061943,0,0,1.0061943,-6.4679189,113.54191)">
