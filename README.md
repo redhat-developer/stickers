@@ -7,8 +7,7 @@ When you submit a sticker here, you can submit it to [hexb.in](http://hexb.in/) 
 
 ## Content
 
-<img src="./vector/abrt.svg" height="209px">
-<img src="./vector/abrt-simple.svg" height="209px">
-<img src="./vector/copr.svg" height="209px">
-<img src="./vector/dnf.svg" height="209px">
-
+![ABRT](hexagons/abrt.png)
+![ABRT](hexagons/abrt-simple.png)
+![Copr](hexagons/copr.png)
+![DNF](hexagons/dnf.png)
